@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FabFresh</string>
+    <string name="refresh">Refresh</string>
+    <string name="title_activity_upload_image">Upload</string>
+    <string name="title_activity_download_image">Download</string>
+    <string name="auto_complete">Enter mobile number</string>
+    <string name="new_pic">Take a pic</string>
+    <string name="search_pic">Search in server</string>
+    <string name="upload_server">Upload to Server</string>
+    <string name="show_direction">Show Direction</string>
+    <string name="update_image">Update Image</string>
+
+</resources>
